@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abirubha2007/java_leetcode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Abirubha2007/java_leetcode/tree/master/0205-isomorphic-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abirubha2007/java_leetcode/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/Abirubha2007/java_leetcode/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
