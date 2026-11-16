@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Abirubha2007/java_leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Abirubha2007/java_leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Abirubha2007/java_leetcode/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abirubha2007/java_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0125-valid-palindrome](https://github.com/Abirubha2007/java_leetcode/tree/master/0125-valid-palindrome) |
 ## Linked List
 |  |
 | ------- |
