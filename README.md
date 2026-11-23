@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abirubha2007/java_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Abirubha2007/java_leetcode/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/Abirubha2007/java_leetcode/tree/master/0367-valid-perfect-square) |
 ## Array
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Abirubha2007/java_leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abirubha2007/java_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Abirubha2007/java_leetcode/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/Abirubha2007/java_leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Abirubha2007/java_leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abirubha2007/java_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Abirubha2007/java_leetcode/tree/master/0169-majority-element) |
