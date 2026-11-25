@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Abirubha2007/java_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Abirubha2007/java_leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Abirubha2007/java_leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Abirubha2007/java_leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Abirubha2007/java_leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Abirubha2007/java_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Abirubha2007/java_leetcode/tree/master/0169-majority-element) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abirubha2007/java_leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Abirubha2007/java_leetcode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Abirubha2007/java_leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Abirubha2007/java_leetcode/tree/master/0169-majority-element) |
 ## String
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abirubha2007/java_leetcode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Abirubha2007/java_leetcode/tree/master/0179-largest-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Abirubha2007/java_leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
