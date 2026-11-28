@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Abirubha2007/java_leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Abirubha2007/java_leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Abirubha2007/java_leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Abirubha2007/java_leetcode/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/Abirubha2007/java_leetcode/tree/master/0367-valid-perfect-square) |
 ## Binary Search
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abirubha2007/java_leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Abirubha2007/java_leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Abirubha2007/java_leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Abirubha2007/java_leetcode/tree/master/0205-isomorphic-strings) |
 ## Divide and Conquer
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Abirubha2007/java_leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Abirubha2007/java_leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Abirubha2007/java_leetcode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Abirubha2007/java_leetcode/tree/master/0179-largest-number) |
